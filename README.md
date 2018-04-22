@@ -4,13 +4,19 @@ When creating a new project, RPG Maker 2003 includes many entries in the databas
 
 This blank project saves you from doing this step. It doesn't need RTP, and only contains the mandatory files to launch the game. The database is fully cleaned up, except for the glossary.
 
+## Customization
+
+You can remove `CharSet/Vehicles.png` by setting another charset for the vehicles in the database.
+
+An easy way to check if your game needs RTP files is by renaming the RTP folder in your RPG Maker 2003 installation. If your game still runs fine, you're good to go!
+
 ## More details
 
 Project created with RM2003 1.12a.
 
-You can remove `CharSet/Vehicles.png` by setting another charset for the vehicles in the database.
+All of the base files are obtained from RPG Maker 2003. The license provided by Enterbrain can be found at `LICENSE/RM2003_EULA.rtf`.
 
-You can check if your game needs RTP files by renaming the RTP folder in your RPG Maker 2003 installation. If the game still runs fine, you're good to go!
+All changes we made to the base files are covered by The Unlicense, see `LICENSE/LICENSE`.
 
 ## Related projects
 
